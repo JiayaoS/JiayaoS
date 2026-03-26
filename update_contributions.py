@@ -4,7 +4,7 @@ import requests
 from collections import Counter
 from pathlib import Path
 
-url = f"https://api.github.com/search/issues?q=author:LumanSuen+type:pr+is:merged&per_page=1000"
+url = f"https://api.github.com/search/issues?q=author:JiayaoS+type:pr+created:%3E2023-01-01&per_page=1000"
 
 r = requests.get(url)
 r.raise_for_status()
@@ -20,11 +20,11 @@ lines = [
     "|-------------|-----|"
 ]
 for repo, num in count.most_common():
-    lines.append(f"| [{repo}](https://github.com/{repo}/pulls?q=author%3ALumanSuen+) | {num} |")
+    lines.append(f"| [{repo}](https://github.com/{repo}/pulls?q=author%3AJiayaoS+) | {num} |")
 for repo in []:
-    c = requests.get(f"https://api.github.com/repos/{repo}/commits?author=LumanSuen&per_page=1")
+    c = requests.get(f"https://api.github.com/repos/{repo}/commits?author=JiayaoS&per_page=1")
 
-    lines.append(f"| [{repo}](https://github.com/{repo}/commits/main/?author=LumanSuen) | {len(c.json())} |")
+    lines.append(f"| [{repo}](https://github.com/{repo}/commits/main/?author=JiayaoS) | {len(c.json())} |")
 lines.append("<!-- end -->")
 
 pattern = r"(<!-- begin -->)(.*?)(<!-- end -->)"
