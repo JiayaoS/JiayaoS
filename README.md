@@ -19,12 +19,13 @@ I’m a passionate software engineer with over 10 years of professional experien
 ### 👩‍💻 Open Source Contributions
 | Repository | PRs |
 |-------------|-----|
+| [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot/pulls?q=author%3AJiayaoS+) | 2 |
 | [apache/tika](https://github.com/apache/tika/pulls?q=author%3AJiayaoS+) | 1 |
 <!-- end -->
 
 👆Click to view all my PRs
 
-<img height=200 align="left" src="https://github-readme-stats-taupe-zeta-18.vercel.app/api?username=JiayaoS&hide=stars&show_icon=true&hide_border=true" />
+<img height=200 align="left" src="https://github-readme-stats-taupe-zeta-18.vercel.app/api?username=JiayaoS&hide=stars&show_icon=true&hide_border=true&hide_rank=true" />
   <img height=200 src="https://github-readme-stats-taupe-zeta-18.vercel.app/api/top-langs?username=JiayaoS&layout=compact&langs_count=8&hide_border=true" />
 
 
