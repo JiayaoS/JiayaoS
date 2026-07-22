@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi there, I'm Jiayao
 
-<!--
-**LumanSuen/LumanSuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate software engineer with over 10 years of professional experience in backend development, cloud deployment, and system architecture.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Focusing On
+
+- Contribute to open-source projects
+- Improving English communication skills
+
+
+
+### Get in Touch
+
+ Email: [jiayao.s@outlook.com](mailto:jiayao.s@outlook.com)  
+ LinkedIn: [www.linkedin.com/in/jiayaos](https://www.linkedin.com/in/jiayaos)  
+
+<!-- begin -->
+### 👩‍💻 Open Source Contributions
+| Repository | PRs |
+|-------------|-----|
+| [apache/kafka](https://github.com/apache/kafka/pulls?q=author%3AJiayaoS+) | 15 |
+| [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot/pulls?q=author%3AJiayaoS+) | 2 |
+| [apache/kafka-site](https://github.com/apache/kafka-site/pulls?q=author%3AJiayaoS+) | 1 |
+| [apache/tika](https://github.com/apache/tika/pulls?q=author%3AJiayaoS+) | 1 |
+
+<!-- end -->
+
+👆Click to view all my PRs
+
+<img height=200 align="left" src="https://github-readme-stats-taupe-zeta-18.vercel.app/api?username=JiayaoS&hide=stars&show_icon=true&hide_border=true&hide_rank=true" />
+  <img height=200 src="https://github-readme-stats-taupe-zeta-18.vercel.app/api/top-langs?username=JiayaoS&layout=compact&langs_count=8&hide_border=true" />
+
+
