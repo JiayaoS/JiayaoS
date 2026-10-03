@@ -19,7 +19,7 @@ I’m a passionate software engineer with over 10 years of professional experien
 ### 👩‍💻 Open Source Contributions
 | Repository | PRs |
 |-------------|-----|
-| [apache/kafka](https://github.com/apache/kafka/pulls?q=author%3AJiayaoS+) | 15 |
+| [apache/kafka](https://github.com/apache/kafka/pulls?q=author%3AJiayaoS+) | 17 |
 | [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot/pulls?q=author%3AJiayaoS+) | 2 |
 | [apache/kafka-site](https://github.com/apache/kafka-site/pulls?q=author%3AJiayaoS+) | 1 |
 | [apache/tika](https://github.com/apache/tika/pulls?q=author%3AJiayaoS+) | 1 |
